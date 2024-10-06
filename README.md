@@ -53,7 +53,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/db938942-1553-4c74-9c3f-7208fb5581cd)
 
 
-**Result:**
+## Result:
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
